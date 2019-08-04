@@ -1,5 +1,5 @@
 # scholartobib
-a toot to grab bib info from google scholar, and write it to a bib file
+a tool to grab bib info from google scholar, and write it to a bib file
 
 #1 add your searching items of publications, authors or topic in 'read_file.txt'
 
